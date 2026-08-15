@@ -1,0 +1,20 @@
+{
+  "name": "plugin-creator",
+  "displayName": "Plugin Creator",
+  "version": "1.0.0",
+  "description": "Scaffold and validate native Cursor plugins, including optional skills, rules, agents, commands, hooks, MCP, assets, scripts, and repository marketplace entries.",
+  "author": {
+    "name": "ProdigyIQ Mission Control"
+  },
+  "homepage": "https://github.com/ProdigyIQ-Mission-Control/cursor-plugin-creator",
+  "repository": "https://github.com/ProdigyIQ-Mission-Control/cursor-plugin-creator",
+  "keywords": [
+    "cursor",
+    "plugins",
+    "scaffolding",
+    "skills",
+    "marketplace"
+  ],
+  "category": "developer-tools",
+  "skills": "./skills/"
+}
